@@ -85,5 +85,5 @@ The admin panel includes various functionalities to manage the application:
 
 ## Contact
 
-If you have any questions or feedback, please contact me 
+If you have any questions or feedback, please contact me  https://www.linkedin.com/in/senanur-incekara-34bba8237/
 
