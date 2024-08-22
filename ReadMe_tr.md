@@ -1,6 +1,6 @@
 # NEÜ SOSYAL
 
-*Bilgisayar Mühendisliği 3. sınıf 'Bilgisayar Mühendisliği Uygulama Tasarımı' dersi kapsamında Flutter kullanarak geliştirdiğim bu mobil uygulama, öğrencilerin sosyal, akademik ve mesleki etkileşimini artırmayı amaçlamayı bilgi paylaşımında bulunabilmelerini amaçlamaktadır. 
+**Bilgisayar Mühendisliği 3. sınıf 'Bilgisayar Mühendisliği Uygulama Tasarımı' dersi kapsamında Flutter kullanarak geliştirdiğim bu mobil uygulama, öğrencilerin sosyal, akademik ve mesleki etkileşimini artırmayı amaçlamayı bilgi paylaşımında bulunabilmelerini amaçlamaktadır.**
 
 
 ## SAYFALAR
@@ -59,12 +59,12 @@ Admin paneli üzerinden Google Form formatında yüklenen anketlerin kullanıcı
 Admin paneli, uygulamayı yönetmek için çeşitli işlevler içerir
 
 - **Kullanıcı Yönetimi:** Kullanıcı bilgilerini güncelleme ve uygulamadan kullanıcıları silme.
-- **çerik Onayı:**Yeni kullanıcı hesaplarını onaylama ve kullanıcılar tarafından gönderilen içerikleri yönetme.
+- **içerik Onayı:** Yeni kullanıcı hesaplarını onaylama ve kullanıcılar tarafından gönderilen içerikleri yönetme.
 - **Anket Yönetimi:**  Topluluk içinde etkileşim sağlamak için anket oluşturma ve silme.
 - **Hikaye Oyunu :** Hikaye oyununa eklenen cümleleri onaylama ve yönetme. Onaylanmayan cümleler inceleme için arşivlenir.
 - **Yorum Yönetimi:**  Yöneticiler, konulara eklenen yorumları inceleyebilir, onaylayabilir ve silebilir. Onaylanan yorumlar gösterilir, onaylanmayanlar ise arşivlenir.
 - **İş ve Mizah Yönetimi:** Yöneticiler, kullanıcılar için güncel ve ilgili içerikler sağlamak amacıyla iş ve mizah gönderilerini ekleyebilir ve yönetebilir.
-- 
+  
 ![Ekran görüntüsü 2024-06-30 000911](https://github.com/senanurincekara/neu_Social-flutter/assets/97362569/515f8120-5829-4216-b38f-d4ded95ec3b5)
 
 ![Ekran görüntüsü 2024-06-30 000934](https://github.com/senanurincekara/neu_Social-flutter/assets/97362569/1e34cdca-48dc-4723-b5ed-19a6f9e100fe)
